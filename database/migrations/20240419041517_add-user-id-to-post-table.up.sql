@@ -1,0 +1,1 @@
+alter table `posts` add delete_at TIMESTAMP NULL COMMENT '刪除時間';

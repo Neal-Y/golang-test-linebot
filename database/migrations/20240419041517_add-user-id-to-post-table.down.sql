@@ -1,0 +1,1 @@
+alter table posts drop delete_at;
